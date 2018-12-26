@@ -24,7 +24,7 @@ If you encounter any problems, please file an issue here.
 
 Purchasing a license enables Sherloque to index more files, thus increasing its usefulness. All versions of Sherloque still work with projects larger than the max index size, files will simply be added/removed from the index based on a Most Recently Used policy.
 
-Sherloque comes with a 30 day money back guarantee. No questions asked :) Just contact us here.
+Sherloque comes with a 30 day money back guarantee. No questions asked :) Just [contact us here](https://www.cubicle6.com/support/).
 
 ## Checkout
 
