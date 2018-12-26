@@ -28,12 +28,13 @@ Sherloque comes with a 30 day money back guarantee. No questions asked :) Just c
 
 ## Checkout
 
-|                    | Free                                                 | Personal                                                      | Professional |
-| ------------------ | ---------------------------------------------------- | ------------------------------------------------------------- | ------------ |
-|                    | Perfect for use on small libraries and side projects |                                                               |
-| Index Size (files) | 100                                                  | Unlimited\*                                                   | Unlimited\*  |
-| Usage              | Individuals & Businesses                             | Individuals (May not be purchased or reimbursed by companies) | Businesses   |
-| Cost               | Free                                                 | \$49                                                          | \$99         |
+|                    | Free                                                 | Personal                                                      | Professional                         |
+| ------------------ | ---------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------ |
+|                    | Perfect for use on small libraries and side projects |                                                               |                                      |
+| Index Size (files) | 100                                                  | Unlimited\*                                                   | Unlimited\*                          |
+| Usage              | Individuals & Businesses                             | Individuals (May not be purchased or reimbursed by companies) | Businesses                           |
+| Cost               | Free                                                 | \$49                                                          | \$99                                 |
+|                    |                                                      | [Purchase](https://gum.co/sherloque)                          | [Purchase](https://gum.co/sherloque) |
 
 \*Unlimited within constraints of the memory/compute resources available on your system
 
