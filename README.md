@@ -4,6 +4,8 @@
 
 **Sherloque is a different kind of code search extension for VSCode.**
 
+[ ![Codeship Status for calebpeterson/sherloque-vscode](https://app.codeship.com/projects/e7676420-ee91-0136-fd11-0aadc339175b/status?branch=master)](https://app.codeship.com/projects/320131) [![](https://vsmarketplacebadge.apphb.com/version/cubicle6.sherloque.svg)](https://marketplace.visualstudio.com/items?itemName=cubicle6.sherloque) [![](https://vsmarketplacebadge.apphb.com/installs/cubicle6.sherloque.svg)](https://marketplace.visualstudio.com/items?itemName=cubicle6.sherloque) [![](https://vsmarketplacebadge.apphb.com/rating/cubicle6.sherloque.svg)](https://marketplace.visualstudio.com/items?itemName=cubicle6.sherloque)
+
 It uses a full text search engine and intelligent tokenization to enable you to quickly find what you’re looking for, even when you’re not quite sure what it’s called.
 
 Traditional code search tools, whether a part of our IDEs, or CLI-based are fantastic tools for finding what you need, _if you know exactly what you need to find but just don’t know where it is_.
